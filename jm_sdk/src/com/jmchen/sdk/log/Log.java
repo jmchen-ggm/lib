@@ -65,7 +65,7 @@ public class Log {
 				int pid, long tid, long maintid, String log) {
 			if (level <= LEVEL_ERROR) {
 				android.util.Log.e(tag, log);
-			}			
+			}
 		}
 		
 		@Override
@@ -189,6 +189,7 @@ public class Log {
 		sb.append("] TYPE:[" + android.os.Build.TYPE);
 		sb.append("] USER:[" + android.os.Build.USER + "]");
 		SYS_INFO = sb.toString();
+		android.util.Log.d(TAG, SYS_INFO);
 	}
 	
 	public static String getSystemInfo() {
