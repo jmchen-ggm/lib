@@ -4,8 +4,8 @@ package com.jmchen.sdk.log;
 import java.util.ArrayList;
 
 /**
- * Update At 2014Äê7ÔÂ8ÈÕ By jiaminchen, <jmchen.ggm@gmail.com>
- * Create At 2014Äê7ÔÂ8ÈÕ By jiaminchen, <jmchen.ggm@gmail.com>
+ * Update At 2014å¹´7æœˆ3æ—¥ By jiaminchen, <jmchen.ggm@gmail.com>
+ * Create At 2014å¹´7æœˆ3æ—¥ By jiaminchen, <jmchen.ggm@gmail.com>
  **/
 public class TimeLogImpl implements ITimeLog {
 	private final static String TAG = "Jmchen.TimeLogImpl";

@@ -2,8 +2,8 @@
 package com.jmchen.sdk;
 
 /**
- * Update At 2014Äê7ÔÂ3ÈÕ By jiaminchen, <jmchen.ggm@gmail.com>
- * Create At 2014Äê7ÔÂ3ÈÕ By jiaminchen, <jmchen.ggm@gmail.com>
+ * Update At 2014å¹´7æœˆ3æ—¥ By jiaminchen, <jmchen.ggm@gmail.com>
+ * Create At 2014å¹´7æœˆ3æ—¥ By jiaminchen, <jmchen.ggm@gmail.com>
  **/
 public class BaseConfig {
 	public final static int BUILD_STATUS_DEBUG = 0;

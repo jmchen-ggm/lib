@@ -10,8 +10,8 @@ import android.net.Uri;
 import android.os.Bundle;
 
 /**
- * Update At 2014Äê7ÔÂ8ÈÕ By jiaminchen, <jmchen.ggm@gmail.com>
- * Create At 2014Äê7ÔÂ8ÈÕ By jiaminchen, <jmchen.ggm@gmail.com>
+ * Update At 2014å¹´7æœˆ3æ—¥ By jiaminchen, <jmchen.ggm@gmail.com>
+ * Create At 2014å¹´7æœˆ3æ—¥ By jiaminchen, <jmchen.ggm@gmail.com>
  **/
 public class EmptyCursor implements Cursor {
 	public final static EmptyCursor INSTANCE = new EmptyCursor();

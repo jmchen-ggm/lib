@@ -5,8 +5,8 @@ import android.content.ContentValues;
 import android.database.Cursor;
 
 /**
- * Update At 2014Äê7ÔÂ8ÈÕ By jiaminchen, <jmchen.ggm@gmail.com>
- * Create At 2014Äê7ÔÂ8ÈÕ By jiaminchen, <jmchen.ggm@gmail.com>
+ * Update At 2014å¹´7æœˆ3æ—¥ By jiaminchen, <jmchen.ggm@gmail.com>
+ * Create At 2014å¹´7æœˆ3æ—¥ By jiaminchen, <jmchen.ggm@gmail.com>
  **/
 public class SQLiteDb implements ISQLiteDatabase {
 	private final static String TAG = "Jmchen.SQLiteDb";

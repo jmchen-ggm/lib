@@ -2,17 +2,17 @@
 package com.jmchen.sdk.event;
 
 /**
- * Update At 2014Äê7ÔÂ3ÈÕ By jiaminchen, <jmchen.ggm@gmail.com>
- * Create At 2014Äê7ÔÂ3ÈÕ By jiaminchen, <jmchen.ggm@gmail.com>
+ * Update At 2014å¹´7æœˆ3æ—¥ By jiaminchen, <jmchen.ggm@gmail.com>
+ * Create At 2014å¹´7æœˆ3æ—¥ By jiaminchen, <jmchen.ggm@gmail.com>
  **/
 public abstract class BaseEvent {
 	/**
-	 * ÊÂ¼ş»Øµ÷
+	 * ï¿½Â¼ï¿½ï¿½Øµï¿½
 	 */
 	public Runnable callback = null;
 	protected String id;
 	/**
-	 * ÊÇ·ñĞèÒª¸ù¾İÓÅÏÈ¼¶Ë³Ğò
+	 * ï¿½Ç·ï¿½ï¿½ï¿½Òªï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È¼ï¿½Ë³ï¿½ï¿½
 	 */
 	protected boolean order;
 	

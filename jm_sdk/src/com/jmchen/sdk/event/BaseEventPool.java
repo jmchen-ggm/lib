@@ -13,8 +13,8 @@ import com.jmchen.sdk.Util;
 import com.jmchen.sdk.log.Log;
 
 /**
- * Update At 2014Äê7ÔÂ3ÈÕ By jiaminchen, <jmchen.ggm@gmail.com>
- * Create At 2014Äê7ÔÂ3ÈÕ By jiaminchen, <jmchen.ggm@gmail.com>
+ * Update At 2014å¹´7æœˆ3æ—¥ By jiaminchen, <jmchen.ggm@gmail.com>
+ * Create At 2014å¹´7æœˆ3æ—¥ By jiaminchen, <jmchen.ggm@gmail.com>
  **/
 public class BaseEventPool implements IEventPool {
 	private final static String TAG = "Jmchen.BaseEventPool";
